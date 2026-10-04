@@ -1,15 +1,14 @@
 # NASA Mission Helper
 ## Project Idea
-NASA mission helper is a simple space themed web application designed to help users organize mission preparation tasks and learn basic information about space
-The application includes a mission preparation checklist and an educational space facts section
-## Technologies and Tools Used
+NASA Mission Helper is a simple organizational and educational tool designed to support basic space mission preparation
+The project includes a mission preparation checklist to organize important tasks and a space guide that provides simple educational information about space
 
-- HTML
-- CSS
-- JavaScript
+## Technologies and Tools Used
 - GitHub
-## How to Run the Project
-1. Download the repository
-2. Open the project folder
-3. Open the index.html file in a web browser
-4. Use the mission checklist and explore the space facts
+- Markdown
+
+## How to Use the Project
+1. Open the repository on GitHub
+2. Open mission-checklist.md to view the mission preparation checklist
+3. Open space-guide.md to read the educational space information
+4. Use the checklist to review important mission preparation tasks
