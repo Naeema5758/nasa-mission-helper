@@ -1,0 +1,5 @@
+# Space Guide
+This guide provides simple educational information about space
+- Earth is a planet in the solar system
+- The moon is earth's natural satellite
+- Mars is  called the red planet
